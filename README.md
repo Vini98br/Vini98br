@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on @app-masters
+- 🔭 I’m currently working at @app-masters
 - 🌱 I’m currently learning all new things on JS stack
 <!--
 - 👯 I’m looking to collaborate on ...
