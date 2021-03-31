@@ -27,6 +27,13 @@
 <code><img heigth="25px" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <code><img heigth="25px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img heigth="25px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+
+<code><img heigth="25px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
+<code><img heigth="25px" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
+<code><img heigth="25px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+<code><img heigth="25px" src="https://www.vectorlogo.zone/logos/adonisjs/adonisjs-ar21.svg"></code>
+
+<code><img heigth="25px" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>
 ***
 
 
