@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at @app-masters
+- 🔭 I’m currently working at @meshatech
 - 🌱 I’m currently learning all new things on JS stack
 
 [<code><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin vinicius"/></code>](https://www.linkedin.com/in/vinicius-soran%C3%A7o/)
