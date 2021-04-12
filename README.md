@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at @meshatech
+<!-- - 🔭 I’m currently working at @meshatech-->
 - 🌱 I’m currently learning all new things on JS stack
 
 [<code><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin vinicius"/></code>](https://www.linkedin.com/in/vinicius-soran%C3%A7o/)
@@ -35,6 +35,7 @@
 <code><img heigth="25px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img heigth="25px" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <code><img heigth="25px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+
 <code><img heigth="25px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
 <code><img heigth="25px" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>
 ***
