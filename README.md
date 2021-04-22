@@ -33,6 +33,8 @@
 <code><img heigth="25px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 <code><img heigth="25px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
 <code><img heigth="25px" src="https://www.vectorlogo.zone/logos/adonisjs/adonisjs-ar21.svg"></code>
+<code><img heigth="25px" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></code>
+
 <code><img heigth="25px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img heigth="25px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
 <code><img heigth="25px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
