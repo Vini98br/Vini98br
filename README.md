@@ -45,5 +45,3 @@
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vini98br&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=app-masters&repo=hubstaff-node-client&theme=dracula)](https://github.com/app-masters/hubstaff-node-client)
