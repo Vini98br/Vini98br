@@ -8,7 +8,7 @@ As a Software Engineer with over 7 years of experience, I have spent the past 6 
 ## Hard Skills
 ### Backend:
 
-▶ Languages: NodeJS (NestJS, Express), Python (Flask), Swift
+▶ Languages: NodeJS (NestJS, Express), Python (Flask)
 
 ▶ API: REST, GraphQL, WebSocket
 
@@ -22,7 +22,7 @@ As a Software Engineer with over 7 years of experience, I have spent the past 6 
 
 ### Frontend:
 
-▶ Lib/Frameworks: ReactJS, NextJS, React Native
+▶ Lib/Frameworks: ReactJS, NextJS, React Native, SwiftUI
 
 ▶ State Managers: Redux, Zustand
 
