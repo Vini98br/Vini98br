@@ -1,5 +1,7 @@
 
-### Hi there 👋
+# Hi there 👋
+
+[<code><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin vinicius"/></code>](https://www.linkedin.com/in/vinicius-soran%C3%A7o/)
 
 As a Software Engineer with over 7 years of experience, I have spent the past 6 years immersed in the dynamic world of web development, utilizing advanced technologies such as ReactJS, NodeJS, AWS, and NextJS. My passion for continuous learning and innovation drives me to deliver exceptional solutions and ensure the success of every project I undertake. This passion has also led me to work remotely in 4 different countries, with more to come.
 
@@ -56,7 +58,6 @@ As a Software Engineer with over 7 years of experience, I have spent the past 6 
 
 ▶ Portuguese - Native
 
-[<code><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin vinicius"/></code>](https://www.linkedin.com/in/vinicius-soran%C3%A7o/)
 
 <!--
 - 👯 I’m looking to collaborate on ...
